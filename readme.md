@@ -27,7 +27,6 @@ The repository is organized into the following files and folders:
 - `/python/main.py`: Main python file, used for executing functions from imported modules
 - `/python/etl_modules/`: Contain all modules for the whole ETL process
 - `/files/`: Contains the .csv file, .sqlite file and .txt file (txt for logging)
-- `/resources`: A folder containing subfolders with all the images used in the project.
 - `/notebooks/etl_project_gdp.ipynb`: Jupyter Notebook for the project
 
 ## Technologies
